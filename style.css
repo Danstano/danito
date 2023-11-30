@@ -3,5 +3,17 @@
 }
 
 body {
-    background: red;
+    background: #000;
 }
+
+.imgba {
+    text-align: center;
+}
+
+.sate {
+    color:green;
+}
+
+/*
+Sample code which will not executed
+*/
